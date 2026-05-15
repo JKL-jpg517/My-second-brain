@@ -1,0 +1,60 @@
+/* ==================== Banner 高度 ==================== */
+.db-page .banner {
+    height: 360px !important;
+    background-size: cover !important;
+    background-position: center 40% !important;
+}
+
+/* ==================== 卡片（纯色无渐变） ==================== */
+.db-page .callout {
+    border-radius: 14px !important;
+    margin-bottom: 12px !important;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3) !important;
+}
+
+.db-page .callout:nth-child(-n+4) {
+    height: 88px !important;
+    display: flex !important;
+    align-items: center !important;
+    padding: 0 24px !important;
+}
+
+.db-page .callout:nth-child(-n+4):hover {
+    transform: translateX(6px) !important;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4) !important;
+}
+
+.db-page .callout[data-callout="db-blue"]   { background: #3498db !important; color: #fff !important; }
+.db-page .callout[data-callout="db-green"]  { background: #2ecc71 !important; color: #fff !important; }
+.db-page .callout[data-callout="db-orange"] { background: #f39c12 !important; color: #fff !important; }
+.db-page .callout[data-callout="db-purple"] { background: #9b59b6 !important; color: #fff !important; }
+
+.db-page .callout:nth-child(-n+4) .callout-title-inner {
+    font-size: 1.3em !important;
+    display: flex !important;
+    align-items: center !important;
+    gap: 14px !important;
+    color: #ffffff !important;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6) !important;
+}
+
+.db-page .callout:nth-child(-n+4) .callout-title-inner::first-letter {
+    font-size: 2.2rem !important;
+    line-height: 1 !important;
+}
+
+.db-page .callout[data-callout="db-panel"] {
+    min-height: 260px !important;
+    background: rgba(255, 255, 255, 0.06) !important;
+    border: 1px solid rgba(255, 255, 255, 0.15) !important;
+    border-radius: 14px !important;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3) !important;
+}
+
+.db-page .callout[data-callout="db-panel"] .callout-title {
+    display: none !important;
+}
+
+.db-page .callout[data-callout="db-panel"] .callout-content {
+    padding: 20px !important;
+}

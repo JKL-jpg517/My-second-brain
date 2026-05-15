@@ -1,0 +1,8 @@
+{
+  "theme": "moonstone",
+  "nativeMenus": true,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "Dashboard"
+  ]
+}

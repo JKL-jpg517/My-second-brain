@@ -1,0 +1,28 @@
+---
+week: {{date:gggg-[W]ww}}
+---
+
+# 📅 {{title}} 周复盘与规划
+<< [[{{previous_week}}]] | [[{{next_week}}]] >>
+
+---
+
+> [!todo] ⏳ 本周待跟进 (Backlog)
+> ```dataview
+> TASK
+> FROM "Journal/2026/Daily"
+> WHERE week = this.week AND !completed
+> ```
+
+> [!milestone] 🏆 核心项目进展 (Sprint Review)
+> - **科研/学业**：(例如：ALOHA 机械臂这周整体稳定性提升了吗？高数练习到哪一章了？)
+> - **技能/爱好**：(例如：本周垂直弹跳训练的总次数，吉他和弦转换的流畅度评价)
+> - **规划进度**：(例如：2+2 计划的学分核对完成度，西雅图实习的材料准备情况)
+
+> [!quote] 💡 深度思考总结
+> (从本周 7 篇日记的 Thoughts 中提炼出最重要的 1-2 条认知)
+
+> [!direction] 🎯 下周核心目标 (The Big Three)
+> 1. 
+> 2. 
+> 3.

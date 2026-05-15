@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"dcba57d882506d7a","type":"group","x":-720,"y":760,"width":652,"height":220,"label":"group1"},
+		{"id":"9053ae87d7351f38","type":"file","file":"常用/Markdown&Obsidian Cheatsheet.md","x":-80,"y":260,"width":260,"height":340},
+		{"id":"404e89af852ade3a","type":"link","url":"https://www.google.com/","x":-134,"y":-419,"width":394,"height":59},
+		{"id":"186c7949f3b51f16","type":"file","file":"2026/附件们/97d381cf-345e-4ffc-9477-95c90fd32c7a.png","x":-520,"y":256,"width":121,"height":104},
+		{"id":"5d203cc46df769ac","type":"text","text":"Central Idea","x":-125,"y":0,"width":385,"height":130},
+		{"id":"651305162065b6d9","type":"text","text":"card 1","x":-700,"y":780,"width":250,"height":60,"color":"5"},
+		{"id":"566defa99fafa91d","type":"text","text":"card 2","x":-338,"y":780,"width":250,"height":60,"color":"5"},
+		{"id":"0a88788b80cb578d","type":"text","text":"card 3","x":-508,"y":900,"width":250,"height":60,"color":"5"},
+		{"id":"ad04ddac56c54220","type":"text","text":"floating platform","x":-880,"y":540,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"0114415b0be616ae","fromNode":"5d203cc46df769ac","fromSide":"right","toNode":"9053ae87d7351f38","toSide":"right","fromEnd":"arrow","color":"1","label":"第一重链接"},
+		{"id":"62a6b57f960e24d0","fromNode":"9053ae87d7351f38","fromSide":"left","toNode":"186c7949f3b51f16","toSide":"right","color":"4"},
+		{"id":"0916bbdac8381937","fromNode":"9053ae87d7351f38","fromSide":"bottom","toNode":"dcba57d882506d7a","toSide":"top","color":"3"}
+	]
+}
