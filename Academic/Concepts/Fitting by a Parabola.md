@@ -1,0 +1,1 @@
+![](../../2026/附件们/e1d99971-3294-48fc-bae5-2ffa37f0974d.png)when $m=r=3$: $P$=I equivilant to solving $Ax=b$ 

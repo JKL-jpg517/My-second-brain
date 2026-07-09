@@ -364,7 +364,6 @@ def hijacking_decision(D, delta):
 **Procedure**:
 
 ```
-
 Step 1. 实现 workflows_v1/ 共 30 classes
 
 Step 2. 采集 10 cycles × 30 × 1 = 300 records at new bands, ~6 h

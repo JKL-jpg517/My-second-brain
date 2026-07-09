@@ -24,9 +24,13 @@ explain all steps from $A$ to $U$ to $A=E^{{-1}}U=LU$ and $x$
 
 ### [[2.1 Elimination and Back Subsitution]]
 ### [[notes/2.2 Elimation matricies and inverse matrices]]
-### [[2.3 Matrix Computations and A=LU]]
-### [[2.4 Permutation and transposes]]
+### [[notes/2.3 Matrix Computations and A=LU]]
+### [[notes/2.4 Permutation and Transposes]]
 ### [[Derivatives and finite difference matricies]]
 
 
 
+# 4 Orthogonality
+from o_vectors to o-subspaces to o-bases and o-matrices
+[4.1 Orthogonality of the Four Subspaces](notes/4.1%20Orthogonality%20of%20the%20Four%20Subspaces.md)
+[[notes/4.2 Projections]]

@@ -9,7 +9,6 @@
 ### What is it?
 - an interface(e.g graphical user interfaces/LLM interfaces）$\implies$ specialized interfaces by the developer so function restricted by the program )
 - $\implies$ Shell interface: one level lower , ==textual interface==s (interation:declarative/ ***Command Line interface***) of the computer;core language interating the computer can chain whatever you like!   v.s Windows: ***Geographical User Interface**
-- the most common shell: bash!; windows-->Powershell; ==Linux/macOS-->bash(our focus!)==  prepare linux subsystem in windows
 - shell: ability to combine program/automate tasks/ interact with opensouce community(to command in the bash)/see the configuration of software
 -     [username@host name:(location in the file system)] $(not the root user)
 ### Some tools
@@ -397,6 +396,8 @@ jhj@LAPTOP-SKRHIUC1:~/learning/shell_lab$ python3 try.py
 try python!
 ```
 
+
+[[Move/rename file]]
 
 
 

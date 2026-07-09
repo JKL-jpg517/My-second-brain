@@ -42,7 +42,7 @@ ___
 2. Number 2
 ---
 
-[[2026/未命名]]([[]] 来创建)
+[[../2026/笔记原则]]([[]] 来创建)
 [[2026/nihao1]](提前创建一个不存在的file)
 [google](http://www.google.com)(创建网页链接 []名字+（）链接)
 [CS self-learning guide](https:csdiy.wiki)
