@@ -19,3 +19,6 @@ focus on the design/use of abstraction
 
 
 **Why C++**
+![](../../2026/附件们/6ec1079e-5238-4c8c-b8bc-a155189d9fb7.png)
+
+![](../../2026/附件们/650fbbec-cb7f-42f3-817b-5f141a20dec3.png)
